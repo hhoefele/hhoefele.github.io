@@ -18,12 +18,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 subtitle: Data Analyst <span style="color:#f58506"> Portfolio </span>
 location: "Iselin, NJ"
 resume_url: /docs/resume.docx
-avatar_image: /img/profile_picture.JPG
+#avatar_image: /img/profile_picture.JPG
+avatar_image: /img/HelenHoefele2.JPG
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/#" # Add your linkedln handle
-github: "https://github.com/#"  # Add your github handle
+#linkedln: "https://linkedln.com/#" # Add your linkedln handle
+linkedln: "https://www.linkedin.com/in/helenhoefele" # Add your linkedln handle
+
+#github: "https://github.com/#"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
